@@ -1,0 +1,194 @@
+<div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+      <div class="container-fluid">
+          <div class="row mb-2">
+              <div class="col-sm-6">
+                  <h1>Student Info</h1>
+              </div>
+              <div class="col-sm-6">
+                  <ol class="breadcrumb float-sm-right">
+                      <li class="breadcrumb-item"><a routerLink="" routerLinkActive="active">Home</a></li>
+                      <li class="breadcrumb-item active">Manage User</li>
+                  </ol>
+              </div>
+          </div>
+      </div><!-- /.container-fluid -->
+  </section>
+   <!-- Main content -->
+   <section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <button data-toggle="modal" data-target="#modal-edit-insert" type="button"
+                            class="btn btn-block btn-info btn-xs card-title bg-navy"
+                            style="width: 120px;" (click)="clearForm()" >New Student</button>
+                        <div class="card-tools">
+                            <div class="input-group input-group-sm" style="width: 150px;">
+                                <input type="text" name="table_search" class="form-control float-right"
+                                    placeholder="Search">
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-default">
+                                        <i class="fas fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body table-responsive p-0">
+                      <table class="table table-hover text-nowrap table-bordered">
+                          <thead>
+                              <tr>
+                                  <th style="width: 10;">#</th>
+                                  <th>Student Name</th>
+                                  <th>Date of birth</th>
+                                  <th>Department</th>
+                                  <th style="width: 120px" class="text-center">View Image</th>
+                                  <th style="width:40px;" class="text-center">Action</th>
+                              </tr>
+                          </thead>
+                          <tbody>
+                              <tr *ngFor="let item of studentList; let ndx = index">
+                                  <td>{{ndx + 1}}</td>
+                                  <td>{{item.name}}</td>
+                                   <td>{{item.dateOfBirth}}</td>
+                                  <td>{{item.deptName}}</td>
+                                  <!-- <td>{{item.imagePath}}</td> -->
+
+                                  <td *ngIf="item.imagePath!=null; else elseBlock" class="text-center">
+                                      <img [src]="imageSource+item.imagePath"
+                                          style="height:60px!important; width:auto!important;" />
+                                  </td>
+                                  <ng-template #elseBlock><td class="text-center"><img [src]="noImage"
+                                      style="height:60px!important; width:auto!important;" /></td></ng-template>
+                                  <td class="text-right">
+                                      <div class="btn-group">
+                                          <div class="dropdown">
+                                              <a class="btn btn-info btn-xs bg-navy dropdown-toggle" href="#" role="button"
+                                                  id="dropdownMenuLink" data-toggle="dropdown"
+                                                  aria-expanded="false">
+                                                  Action
+                                              </a>
+                                              <ul class="dropdown-menu dropdown-menu-right"
+                                                  aria-labelledby="dropdownMenuLink">
+                                                  <li><a class="dropdown-item"
+                                                          (click)="pupulateForm(item)" data-toggle="modal" data-target="#modal-edit-insert">Edit</a></li>
+                                                  <li><a class="dropdown-item"
+                                                          (click)="onDelete(item.id)">Delete</a></li>
+                                              </ul>
+                                          </div>
+                                      </div>
+                                  </td>
+                              </tr>
+                          </tbody>
+                      </table>
+                  </div>
+                  <!-- /.card-body -->
+                  <div class="card-footer clearfix">
+                      <ul class="pagination pagination-sm m-0 float-right">
+                          <li class="page-item"><a class="page-link" href="#">«</a></li>
+                          <li class="page-item"><a class="page-link" href="#">1</a></li>
+                          <li class="page-item"><a class="page-link" href="#">2</a></li>
+                          <li class="page-item"><a class="page-link" href="#">3</a></li>
+                          <li class="page-item"><a class="page-link" href="#">»</a></li>
+                      </ul>
+                  </div>
+              </div>
+              <!-- /.card -->
+          </div>
+      </div>
+  </div>
+</section>
+<!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
+<div class="modal fade" id="modal-edit-insert"  style="display: none;" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+  <div class="modal-content">
+      <div class="modal-header bg-navy">
+          <h4 class="modal-title">Student Information</h4>
+          <button type="button" class="close text-white" #closebutton data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">×</span>
+          </button>
+      </div>
+      <form [formGroup]="studentInformationForm" (ngSubmit)="onSubmit()">
+          <div class="modal-body">
+              <input type="hidden" formControlName="studentId">
+              <input type="hidden" formControlName="imageName">
+              <div class="row">
+                  <div class="col-sm-6">
+                      <!-- text input -->
+                      <div class="form-group">
+                          <label>Student Name</label>
+                          <input type="text" class="form-control" placeholder="Enter ..."
+                              formControlName="studentName">
+                              <div *ngIf="studentName?.invalid &&  formSubmitAttempt || studentName?.invalid &&  (studentName?.dirty || studentName?.touched)">
+                                  <span *ngIf="studentName?.hasError('required')"
+                                      class="error invalid-message text-danger">Please enter
+                                      Student Name
+                                  </span>
+                                  <span *ngIf="studentName?.hasError('maxlength')"
+                                      class="error invalid-message text-danger">Name Can contain at most 50 Characters</span>
+                                      <span *ngIf="studentName?.hasError('minlength')"
+                                      class="error invalid-message text-danger">Name must contain at least 4 Characters </span>
+                              </div>
+                      </div>
+                  </div>
+
+              <div class="row">
+                  <div class="col-sm-6">
+                      <!-- text input -->
+                      <input type="hidden" formControlName="departmentId">
+                        <div class="form-group">
+                          <label>Department</label>
+                          <select formControlName="departmentId" class="form-control">
+                              <option value="" selected disabled>--Select--</option>
+                              <option *ngFor="let det of departmentList" [ngValue]="det.id">
+                                  {{det.deptName}}</option>
+                          </select>
+                          <span *ngIf="departmentId?.invalid && formSubmitAttempt || departmentId?.invalid && departmentId?.invalid && departmentId?.touched"
+                                    class="error invalid-message text-danger">Please select a test
+                                    Department</span>
+                      </div>
+                  </div>
+                  <div class="col-sm-6">
+                      <div class="form-group">
+                        <label>Date of Birth</label>
+                        <input type="date" class="form-control" placeholder="Enter ..."
+                            formControlName="dateOfBirth">
+                            <div *ngIf="dateOfBirth?.invalid &&  formSubmitAttempt || dateOfBirth?.invalid &&  (dateOfBirth?.dirty || dateOfBirth?.touched)">
+
+                            </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+              <div class="row">
+
+              </div>
+              <div class="form-group">
+                  <label for="exampleInputFile">Student Image</label>
+                  <img [src]="filePath" style="height:90px!important; width:auto!important;"
+                      class="form-control change_images" /><br>
+                  <div class="input-group">
+                      <div class="custom-file">
+                          <input type="file" class="custom-file-input" id="exampleInputFile"
+                              (change)="handleFileInput($event)">
+                          <label class="custom-file-label" for="exampleInputFile">Choose file</label>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="modal-footer justify-content-between">
+              <button type="button" class="btn btn-default" data-dismiss="modal" (click)="clearForm()">Close</button>
+              <button type="submit" class="btn btn-primary bg-navy" >Save changes</button>
+          </div>
+      </form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>

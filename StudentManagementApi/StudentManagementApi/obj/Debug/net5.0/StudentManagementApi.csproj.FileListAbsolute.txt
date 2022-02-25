@@ -1,0 +1,138 @@
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\appsettings.Development.json
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\appsettings.json
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.exe
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.deps.json
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.runtimeconfig.json
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.runtimeconfig.dev.json
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\ref\StudentManagementApi.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Google.Protobuf.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Humanizer.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\MySql.Data.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\ZstdNet.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.AssemblyInfoInputs.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.AssemblyInfo.cs
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.CoreCompileInputs.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\staticwebassets\StudentManagementApi.StaticWebAssets.Manifest.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\staticwebassets\StudentManagementApi.StaticWebAssets.xml
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\scopedcss\bundle\StudentManagementApi.styles.css
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.RazorTargetAssemblyInfo.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.CopyComplete
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\ref\StudentManagementApi.dll
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.pdb
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.genruntimeconfig.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.AssemblyReference.cache
+D:\PERSONAL DOCUMERNT\All Interview Exam\Maliha Poli text\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\appsettings.Development.json
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\appsettings.json
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.exe
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.deps.json
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.runtimeconfig.json
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.runtimeconfig.dev.json
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\ref\StudentManagementApi.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\StudentManagementApi.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Google.Protobuf.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Humanizer.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\MySql.Data.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\ZstdNet.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.AssemblyReference.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.AssemblyInfoInputs.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.AssemblyInfo.cs
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.CoreCompileInputs.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.MvcApplicationPartsAssemblyInfo.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\staticwebassets\StudentManagementApi.StaticWebAssets.Manifest.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\staticwebassets\StudentManagementApi.StaticWebAssets.xml
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\scopedcss\bundle\StudentManagementApi.styles.css
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.RazorTargetAssemblyInfo.cache
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.csproj.CopyComplete
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\ref\StudentManagementApi.dll
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.pdb
+D:\PERSONALDOCUMERNT\AllInterviewExam\MalihaPolitext\StudentManagement_MalihaPolytext\StudentManagementApi\StudentManagementApi\obj\Debug\net5.0\StudentManagementApi.genruntimeconfig.cache

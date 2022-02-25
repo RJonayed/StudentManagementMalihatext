@@ -1,0 +1,185 @@
+<div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+      <div class="container-fluid">
+          <div class="row mb-2">
+              <div class="col-sm-6">
+                  <h1>Enrollment Information</h1>
+              </div>
+              <div class="col-sm-6">
+                  <ol class="breadcrumb float-sm-right">
+                      <li class="breadcrumb-item"><a routerLink="" routerLinkActive="active">Home</a></li>
+                      <li class="breadcrumb-item active">Manage User</li>
+                  </ol>
+              </div>
+          </div>
+      </div><!-- /.container-fluid -->
+  </section>
+   <!-- Main content -->
+   <section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <button data-toggle="modal" data-target="#modal-edit-insert" type="button"
+                            class="btn btn-block btn-info btn-xs card-title bg-navy"
+                            style="width: 120px;" (click)="clearForm()" >New Enroll</button>
+                        <div class="card-tools">
+                            <div class="input-group input-group-sm" style="width: 150px;">
+                                <input type="text" name="table_search" class="form-control float-right"
+                                    placeholder="Search">
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-default">
+                                        <i class="fas fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body table-responsive p-0">
+                      <table class="table table-hover text-nowrap table-bordered">
+                          <thead>
+                              <tr>
+                                  <th style="width: 10;">#</th>
+                                  <th>Student Name</th>
+                                  <th>Course Name</th>
+                                  <th>Enroll Date</th>
+                                  <th>isPaymentComplete</th>
+                                  <th style="width:40px;" class="text-center">Action</th>
+                              </tr>
+                          </thead>
+                          <tbody>
+                              <tr *ngFor="let item of resigtrationList; let ndx = index">
+                                  <td>{{ndx + 1}}</td>
+                                  <td>{{item.studentName}}</td>
+                                   <td>{{item.courseTitle}}</td>
+                                  <td>{{item.enrollDate}}</td>
+                                   <td>{{item.isPaymentComplete}}</td>
+                                  <!-- <td>{{item.imagePath}}</td> -->
+                                  <td class="text-right">
+                                      <div class="btn-group">
+                                          <div class="dropdown">
+                                              <a class="btn btn-info btn-xs bg-navy dropdown-toggle" href="#" role="button"
+                                                  id="dropdownMenuLink" data-toggle="dropdown"
+                                                  aria-expanded="false">
+                                                  Action
+                                              </a>
+                                              <ul class="dropdown-menu dropdown-menu-right"
+                                                  aria-labelledby="dropdownMenuLink">
+                                                  <li><a class="dropdown-item"
+                                                          (click)="pupulateForm(item)" data-toggle="modal" data-target="#modal-edit-insert">Edit</a></li>
+                                                  <li><a class="dropdown-item"
+                                                          (click)="onDelete(item.registrationId)">Delete</a></li>
+                                              </ul>
+                                          </div>
+                                      </div>
+                                  </td>
+                              </tr>
+                          </tbody>
+                      </table>
+                  </div>
+                  <!-- /.card-body -->
+                  <div class="card-footer clearfix">
+                      <ul class="pagination pagination-sm m-0 float-right">
+                          <li class="page-item"><a class="page-link" href="#">«</a></li>
+                          <li class="page-item"><a class="page-link" href="#">1</a></li>
+                          <li class="page-item"><a class="page-link" href="#">2</a></li>
+                          <li class="page-item"><a class="page-link" href="#">3</a></li>
+                          <li class="page-item"><a class="page-link" href="#">»</a></li>
+                      </ul>
+                  </div>
+              </div>
+              <!-- /.card -->
+          </div>
+      </div>
+  </div>
+</section>
+<!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
+<div class="modal fade" id="modal-edit-insert"  style="display: none;" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+  <div class="modal-content">
+      <div class="modal-header bg-navy">
+          <h4 class="modal-title">Enrollment</h4>
+          <button type="button" class="close text-white" #closebutton data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">×</span>
+          </button>
+      </div>
+      <form [formGroup]="resigtrationInfoForm" (ngSubmit)="onSubmit()">
+          <div class="modal-body">
+              <input type="hidden" formControlName="registrationId">
+              <div class="row">
+                  <div class="col-sm-6">
+                      <!-- text input -->
+                      <div class="form-group">
+                        <label>Student Name</label>
+                        <select formControlName="studentId"class="form-control">
+                          <!-- <input type="hidden" formControlName="studentId"> -->
+                            <option value="" selected disabled>--Select--</option>
+                            <option *ngFor="let st of studentList"[ngValue]="st.id">
+                                {{st.name}}</option>
+                        </select>
+                        <span *ngIf="studentId?.invalid && formSubmitAttempt || studentId?.invalid && studentId?.invalid && studentId?.touched"
+                                  class="error invalid-message text-danger">Please select a test
+                                  Student Name</span>
+                    </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-6">
+                      <!-- text input -->
+                      <!-- <input type="hidden" formControlName="courseId"> -->
+                        <div class="form-group">
+                          <label>Course</label>
+                          <select formControlName="courseId" class="form-control">
+                              <option value="" selected disabled>--Select--</option>
+                              <option *ngFor="let cr of courseList" [ngValue]="cr.id">
+                                  {{cr.title}}</option>
+                          </select>
+                          <span *ngIf="courseId?.invalid && formSubmitAttempt || courseId?.invalid && courseId?.invalid && courseId?.touched"
+                                    class="error invalid-message text-danger">Please select a
+                                    Course</span>
+                    </div>
+
+                    <div class="row">
+                  <div class="col-sm-12">
+                      <div class="form-group">
+                        <label>Enroll Date</label>
+                        <input type="date" class="form-control" placeholder="Enter ..."
+                            formControlName="enrollDate">
+                            <div *ngIf="enrollDate?.invalid &&  formSubmitAttempt || enrollDate?.invalid &&  (enrollDate?.dirty || enrollDate?.touched)">
+                                <span *ngIf="enrollDate?.hasError('required')"
+                                    class="error invalid-message text-danger">Please select
+                                    Enroll Date
+                                </span>
+                            </div>
+                      </div>
+                  </div>
+                </div>
+                  <div class="col-sm-6">
+                    <div class="form-group">
+                      <label>Payment IsComplete</label>
+                      <input type="checkbox" class="form-control" placeholder="Enter ..."
+                          formControlName="isPaymentComplete">
+                          <div *ngIf="isPaymentComplete?.invalid &&  formSubmitAttempt || enrollDate?.invalid &&  (isPaymentComplete?.dirty || isPaymentComplete?.touched)">
+                              <span *ngIf="isPaymentComplete?.hasError('required')"
+                                  class="error invalid-message text-danger">Please enter
+                                  Payment Complete
+                              </span>
+                          </div>
+                    </div>
+                </div>
+              </div>
+          </div>
+          <div class="modal-footer justify-content-between">
+              <button type="button" class="btn btn-default" data-dismiss="modal" (click)="clearForm()">Close</button>
+              <button type="submit" class="btn btn-primary bg-navy" >Save changes</button>
+          </div>
+      </form>
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+</div>
