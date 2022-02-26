@@ -7,3 +7,5 @@ User Authentication Microsoft Identity Authentication With JWT Token.
 1. Web Api run with Visula studion.
 2.Open the StudentManagementWeb with cmd command and run cmd ng serve --open.
 
+User Id=admin
+Password=123456
