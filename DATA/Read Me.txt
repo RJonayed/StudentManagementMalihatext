@@ -1,0 +1,9 @@
+->Backend Asp.core WebApi & Entity framework Sql Server 2019
+User Authentication Microsoft Identity Authentication With JWT Token.
+->Frontend Angular 13
+
+*Fast Option
+->Backup database Restore or Script file excute in Microsoft SQL Servr.
+1. Web Api run with Visula studion.
+2.Open the StudentManagementWeb with cmd command and run cmd ng serve --open.
+
